@@ -1,2 +1,2 @@
 # discrete-log-toy
-introduction to discrete log and Diffie hellman with python
+introduction to discrete log and Diffie–Hellman key exchange with python
